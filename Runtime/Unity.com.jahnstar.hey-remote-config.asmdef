@@ -1,0 +1,16 @@
+{
+    "name": "Unity.com.jahnstar.hey-remote-config",
+    "rootNamespace": "",
+    "references": [
+        "GUID:13193b38ff3a724a2bb9e6c181657d91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

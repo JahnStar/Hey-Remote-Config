@@ -1,0 +1,36 @@
+{
+  "name": "com.jahnstar.hey-remote-config",
+  "displayName": "Hey Remote Config",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "unityRelease": "20f1",
+  "description": "Custom Remote Config Package for Unity game engine. </> by Halil Emre Yildiz",
+  "keywords": [
+      "unity",
+      "unity3d",
+      "upm",
+      "remote",
+      "config",
+      "json-editor",
+      "jahnstar",
+      "utility"
+  ],
+  "homepage": "https://github.com/jahnstar/hey-remote-config.git",
+  "bugs": {
+      "url": "https://github.com/jahnstar/hey-remote-config/issues"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/jahnstar/hey-remote-config.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": "Jahn Star",
+  "url": "http://jahnstar.com",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.0.2",
+      "com.unity.modules.unitywebrequest": "1.0.0"
+  }
+}

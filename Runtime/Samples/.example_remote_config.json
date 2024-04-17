@@ -1,0 +1,20 @@
+{
+    "id": "17ba0a95-887b-49aa-a480-0d667a3473a1",
+    "createdAt": "2024-04-17T16:26:53Z",
+    "expiresAt": "never",
+    "type": "settings",
+    "value": [
+      {
+        "key": "Setting0",
+        "type": "string",
+        "value": "forty-two"
+      },
+      {
+        "key": "Setting1",
+        "type": "bool",
+        "value": true
+      }
+    ],
+    "app_name": "Hey Remote Config",
+    "app_version": "0.0.1"
+  }
