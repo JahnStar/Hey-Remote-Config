@@ -1,6 +1,6 @@
 # Hey Remote Config
 
-Hey Remote Config is a Unity package that enables users to create and edit JSON config files in a custom way, akin to Unity's Remote Config editor window. Users can upload generated config files to their preferred host and fetch the settings from the remote config file's URL for runtime remote config usage in games. The package seamlessly handles offline scenarios by caching config data until an internet connection is available.
+Hey Remote Config is a free Unity package that enables users to create and edit and fetch config files in a custom way, similar to Unity's Remote Config editor window. Upload generated config file to any host and fetch the settings runtime. The package seamlessly handles offline scenarios by caching config data until an internet connection is available.
 
 ## Features
 
@@ -87,7 +87,7 @@ Contributions to this project are welcome! Here's how you can contribute:
    1. Insert a reference in the description to the issue created earlier eg. "Closes #1" where "1" is the issue number.
    2. Pull request description should answer these questions: "What has been changed" and "What is this for"
 
-Thank you for contributing! :smile:
+Thank you for contributing!
 
 ## License
 
