@@ -27,12 +27,11 @@ Hey Remote Config is a free Unity package that enables users to create and edit 
 
 ## Usage
 
-### Config Editor
-
 <br>
-<p<a alt="Developed by Halil Emre Yildiz" href=""><img src="https://github.com/JahnStar/Hey-Remote-Config/.hey_remote_config_editor.png"></a>
+<p<a alt="Developed by Halil Emre Yildiz" href=""><img src="https://raw.githubusercontent.com/JahnStar/Hey-Remote-Config/master/Runtime/Samples/.hey_remote_config_editor.png"></a>
 </p>
-<br>
+
+### Config Editor
 
 To create or edit a config file:
 1. Open `Unity > Window > Hey Remote Config > Config Editor`.
